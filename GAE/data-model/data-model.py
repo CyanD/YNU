@@ -1,0 +1,5 @@
+print("Content-Type: text/html")
+print(" ")
+print("Hello, world! from HYC.")
+print("<br/>")
+print("BY HYC.")

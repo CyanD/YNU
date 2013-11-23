@@ -1,0 +1,1 @@
+create table 雇员(雇员号 smallint primary key)
