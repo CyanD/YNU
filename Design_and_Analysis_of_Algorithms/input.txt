@@ -1,0 +1,9 @@
+3
+USDollar
+BritishPound
+FrenchFranc
+3
+USDollar 0.5 BritishPound
+BritishPound 10.0 FrenchFranc
+FrenchFrank 0.21 USDollar
+0
